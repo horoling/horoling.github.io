@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jensen Chan"
-  pronouns         : "he/his"  
+  pronouns         : #"he/his"  
   bio              : " An undergraduate computer science student"
   location         : "Macau"
   employer         : "MUST"
